@@ -1,0 +1,7 @@
+can you turn this text into html format where each line break represent a new p tag and every line starts with an open parenthesis be also wrapped in strong tag?
+
+can you turn this text into html order list where every line break is a new li?
+
+can you turn this text into html unordered list where every line break is a new li?
+
+can you turn this text into html format where each line break represent a new p tag?
