@@ -1,7 +1,13 @@
 can you turn this text into html format where each line break represent a new p tag and every line starts with an open parenthesis be also wrapped in strong tag?
 
-can you turn this text into html order list where every line break is a new li?
+can you turn this text into html ordered list where every line break is a new li?
 
 can you turn this text into html unordered list where every line break is a new li?
 
 can you turn this text into html format where each line break represent a new p tag?
+
+can you turn this text into html format where each line break represent a new p tag and if it starts with a bullet make it unorder lists with li's?
+
+can you turn this text into html and make every line break a new p tag and all lines that start with a number are wrapped in li instead of p tag?
+
+turn this text into html and make every line break a new p tag and all the lines that start with a number are wrapped in li instead of p tag. The first line of every new li is wrapped in a div tag with classes fw-semibold text-lg
