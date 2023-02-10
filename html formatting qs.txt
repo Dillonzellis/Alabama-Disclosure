@@ -11,3 +11,5 @@ can you turn this text into html format where each line break represent a new p 
 can you turn this text into html and make every line break a new p tag and all lines that start with a number are wrapped in li instead of p tag?
 
 turn this text into html and make every line break a new p tag and all the lines that start with a number are wrapped in li instead of p tag. The first line of every new li is wrapped in a div tag with classes fw-semibold text-lg
+
+turn this text into html format where each line break represent a new p tag and if a new line starts with a number have the first sentence in a div tag with class fw-semibold text-lg
